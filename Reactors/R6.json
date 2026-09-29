@@ -1,0 +1,24 @@
+{
+    "model": "RBMK-700",
+    "effective_section": 16.8,
+    "neutron_flux": 2.9e13,
+    "core_volume": 6.2e6,
+    "fision_energy": 3.25e-11,
+    "probabilities": {
+        "decrease": [
+            0.15,
+            0.70,
+            0.15
+        ],
+        "maintain": [
+            0.02,
+            0.96,
+            0.02
+        ],
+        "increase": [
+            0.15,
+            0.70,
+            0.15
+        ]
+    }
+}

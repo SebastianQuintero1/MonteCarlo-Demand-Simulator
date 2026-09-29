@@ -1,0 +1,24 @@
+{
+    "model": "RBMK-UNSTABLE",
+    "effective_section": 18.5,
+    "neutron_flux": 6.2e13,
+    "core_volume": 8.8e6,
+    "fision_energy": 3.15e-11,
+    "probabilities": {
+        "decrease": [
+            0.40,
+            0.30,
+            0.30
+        ],
+        "maintain": [
+            0.20,
+            0.60,
+            0.20
+        ],
+        "increase": [
+            0.30,
+            0.30,
+            0.40
+        ]
+    }
+}

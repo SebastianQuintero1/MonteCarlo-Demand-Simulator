@@ -1,0 +1,24 @@
+{
+    "model": "RBMK-FAST",
+    "effective_section": 9.5,
+    "neutron_flux": 8.0e13,
+    "core_volume": 2.8e6,
+    "fision_energy": 3.4e-11,
+    "probabilities": {
+        "decrease": [
+            0.35,
+            0.40,
+            0.25
+        ],
+        "maintain": [
+            0.25,
+            0.50,
+            0.25
+        ],
+        "increase": [
+            0.25,
+            0.40,
+            0.35
+        ]
+    }
+}
