@@ -1,0 +1,19 @@
+# Entornos de desarrollo e IDEs
+.vscode/
+.idea/
+*.swp
+
+# Archivos compilados y caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales y secretos
+venv/
+env/
+.env
+.venv/
+
+# Basura del sistema operativo
+.DS_Store
+Thumbs.db
